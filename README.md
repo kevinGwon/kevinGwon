@@ -8,7 +8,9 @@
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinGwon&hide=contribs,prs)
   
   <!-- info -->
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerGwon@gmail.com)](mailto:developerGwon@gmail.com)
+  [![Gitbook Badge](https://img.shields.io/badge/-Blog-%23181717?style=flat-round&logo=Github&logoColor=white)](https://developergwon.gitbook.io/blog/)
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:developerGwon@gmail.com)](mailto:developerGwon@gmail.com)
   
 </div>
 
